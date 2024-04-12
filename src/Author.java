@@ -9,7 +9,7 @@ public class Author {
     }
 
     public String getAuthorName() {
-        return authorName;
+        return authorName + " " + authorSurname;
     }
 
     public String getAuthorSurname() {

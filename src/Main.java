@@ -8,7 +8,7 @@ public class Main {
 
         SobSerdse.setYearOfPublication(1987);
 
-        System.out.println("Название " + TheEssentialEllison.getBookName() + ", автор " + Ellison.getAuthorName() + " " + Ellison.getAuthorSurname() + ", год выпуска " + TheEssentialEllison.getYearOfPublication());
-        System.out.println("Название " + SobSerdse.getBookName() + ", автор " + Bulgakov.getAuthorName() + " " + Bulgakov.getAuthorSurname() + ", год выпуска " + SobSerdse.getYearOfPublication());
+        System.out.println("Название " + TheEssentialEllison.getBookName() + ", автор " + Ellison.getAuthorName() + ", год выпуска " + TheEssentialEllison.getYearOfPublication());
+        System.out.println("Название " + SobSerdse.getBookName() + ", автор " + Bulgakov.getAuthorName() + ", год выпуска " + SobSerdse.getYearOfPublication());
     }
 }
